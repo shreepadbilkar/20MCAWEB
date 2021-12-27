@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+       <student1>
+           <heading> Student1 Info </heading>
+           <usn>1RV20MC099</usn>
+           <name>Shreepad Bilkar</name>
+           <college>RV College Of Engineering</college>
+          <branch>MCA</branch>
+           <year-join>2021</year-join>
+           <email>nigamshubham@gmail.com</email>
+       </student1>
+</students>
